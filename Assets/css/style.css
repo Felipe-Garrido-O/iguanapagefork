@@ -1,4 +1,6 @@
 * {
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
@@ -150,7 +152,7 @@ section img{
     top: 1835px;
     left: 10px;
     width: 1280px;
-    height: 102px;
+    height: 62px;
     text-align: center;
     padding: 1rem;
 }
